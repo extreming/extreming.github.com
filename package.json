@@ -1,0 +1,19 @@
+{
+  "name": "extreming.github.com",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "gulpfiel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extreming/extreming.github.com.git"
+  },
+  "author": "killerb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extreming/extreming.github.com/issues"
+  },
+  "homepage": "https://github.com/extreming/extreming.github.com#readme"
+}
