@@ -5,7 +5,6 @@ Vue.use(Router);
 import study1 from '../view/study1.vue';
 import layout from '../view/layout.vue';
 import main from '../view/main.vue';
-import search from '../view/search';
 
 export default new Router({
 	routes: [
@@ -27,11 +26,6 @@ export default new Router({
 			path: '/layout',
 			name: 'layout',
 			component: layout
-        },
-        {
-            path: '/search',
-            name: 'search',
-            component: search
         }
 	]
 })
