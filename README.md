@@ -1,18 +1,9 @@
-# test
+# Allen的github主页
 
-> A Vue.js project
+> Allen的个人简介
 
-## Build Setup
+## navPage
+> 前端学习导航页面
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## docs
+> 基于Vuepress搭建的学习文档
