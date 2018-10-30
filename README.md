@@ -5,5 +5,5 @@
 ## navPage
 > 前端学习导航页面
 
-## docs
+## myDocs
 > 基于Vuepress搭建的学习文档
