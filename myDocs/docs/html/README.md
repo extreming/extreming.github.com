@@ -2,7 +2,7 @@
 
 ## HTML文档结构
 
-    <!doctype html>                 文档头，告诉浏览器这是一个网页
+    <!DOCTYPE html>                 文档头，告诉浏览器这是一个网页
     <html>
         <head>                      头部，存放重要信息
             <meta charset="utf-8">  网页元数据，存放如编码格式等重要信息
@@ -53,6 +53,12 @@ _blank方式有安全风险!
 
         href="#id名"	跳转到本页面标签
         href="文件名/页面名称#id名"	跳转其他页面锚点
+
+3. \#
+
+4. http协议
+
+5. javascript协议
 
 #### span, b, strong, i, em
 修饰文本类的标签，span是一个纯洁的标签，没有附加样式
