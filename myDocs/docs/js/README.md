@@ -98,3 +98,50 @@
 
 12. break: 中断整个循环体； <br>
     continue: 中止、跳过本次循环
+
+## js字面量
+
+英文里面叫做literal,被翻译成了字面量，感觉上很奇怪，其实就是文本代码的意思。
+
+非字面量就是new出来的，字面量就是直接创建的
+
+**javascript字面量**
+在JavaScript里面，字面量包括：字符串字面量(string literal )、数组字面量(array literal)和对象字面量(object literal)，另外还有函数字面量(function literal)。
+
+
+**1. 字符串字面量（String Literal）**
+
+	是指双引号引住的一系列字符，双引号中可以没有字符，可以只有一个字符，也可以有很多个字符（来源：互动百科）。 
+	在编程语言中，字面量是一种表示值的记法。
+	
+	示例：
+
+	var test="hello world!";
+
+	"hello world!"就是字符串字面量，test是变量名。
+
+**2.数组字面量(array literal)**
+
+	示例：
+
+	var team=["tom","john","smith","kobe"];
+
+	["tom","john","smith","kobe"]是数组字面量
+
+**3.对象字面量(object literal)**
+
+	示例：
+
+	var person={name:"tom",age:"26",sex:"male"};
+
+	{name:"tom",age:"26",sex:"male"}为对象字面量
+
+**4.函数字面量(function literal)**
+
+	示例
+
+	var person={
+		name:"tom",
+		age:"23",
+		tell:function(){alert(name);}
+	}
