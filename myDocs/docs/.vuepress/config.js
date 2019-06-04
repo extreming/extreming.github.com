@@ -3,7 +3,7 @@ module.exports = {
 
     title: 'Allen的学习文档',
 
-    description: 'Allen的学习文档',
+    description: '努力工作，健康生活',
 
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
@@ -24,7 +24,9 @@ module.exports = {
             { text: 'HTML', link: '/html/' }, // 内部链接 以docs为根目录
             { text: 'CSS', link: '/css/' },
             { text: 'JS', link: '/js/' },
-            { text: 'VUE', link: '/vue/' }
+            { text: 'VUE', link: '/vue/' },
+            { text: 'MOBILE', link: '/mobile/' },
+            { text: 'OHTER', link: '/ohter/' }
         ],
 
         sidebar: 'auto',
