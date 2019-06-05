@@ -166,7 +166,7 @@ some() 方法会依次执行数组的每个元素：
 
 :::
 
-var ages = [3, 10, 18, 20];
+	var ages = [3, 10, 18, 20];
 
 	function checkAdult(age) {
 		return age >= 18;
