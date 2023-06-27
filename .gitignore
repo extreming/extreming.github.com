@@ -10,3 +10,5 @@ dist/
 *.ntvs*
 *.njsproj
 *.sln
+
+index.js
